@@ -1,0 +1,4 @@
+replay:
+  seconds: 120
+camera:
+  interpolate: true

@@ -1,0 +1,11 @@
+name: q498p
+main: com.q498p.replay.q498p
+version: 4.0
+api-version: 1.21
+depend: [ProtocolLib]
+commands:
+  replay:
+    usage: /replay <player>
+permissions:
+  q498p.staff:
+    default: op
